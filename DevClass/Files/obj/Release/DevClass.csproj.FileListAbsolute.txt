@@ -1,0 +1,10 @@
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\Bin\DevClass.dll
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\Bin\DevClass.pdb
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\obj\Release\DevClass.csproj.AssemblyReference.cache
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\obj\Release\DevClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\obj\Release\DevClass.AssemblyInfoInputs.cache
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\obj\Release\DevClass.AssemblyInfo.cs
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\obj\Release\DevClass.csproj.CoreCompileInputs.cache
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\obj\Release\DevClass.sourcelink.json
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\obj\Release\DevClass.dll
+C:\CreatioInstallation\DB2_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClass\Files\obj\Release\DevClass.pdb
